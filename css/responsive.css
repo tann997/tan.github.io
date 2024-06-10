@@ -484,20 +484,20 @@
 /* Mobile Devices */
 @media only screen and (max-width: 767px) {
 	.progress-wrap {
-		right: 20px;
-		bottom: 20px;
+		right: 10px;
+		bottom: 10px;
 	}
 	h1 {
-		font-size: 40px;
+		font-size: 30px;
 	}
 	h2 {
-		font-size: 35px;
+		font-size: 25px;
 	}
 	h3 {
-		font-size: 22px;
+		font-size: 11px;
 	}
 	h4 {
-		font-size: 20px;
+		font-size: 10px;
 	}
 	h5 {
 		font-size: 18px;
